@@ -1,6 +1,3 @@
-# URL-Shortener
-This repository hosts the backend code for a URL shortener service built with Node.js, MongoDB, and Express. The service enables URL shortening, management of shortened links, and tracking visit history. It incorporates JWT authentication and cookie-based sessions for secure user handling.
-
 
 # URL Shortener Backend
 
@@ -22,9 +19,5 @@ This repository hosts the backend code for a URL shortener service built with No
 - Node.js
 - MongoDB
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/url-shortener-backend.git
-   cd url-shortener-backend
+   
